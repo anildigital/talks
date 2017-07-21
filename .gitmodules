@@ -1,0 +1,6 @@
+[submodule "chucky"]
+	path = distributed_systems_in_elixir/chucky
+	url = git@github.com:anildigital/distsys_elixir_chucky.git
+[submodule "blitzy"]
+	path = distributed_systems_in_elixir/blitzy
+	url = git@github.com:anildigital/distsys_elixir_blitzy.git

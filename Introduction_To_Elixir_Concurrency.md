@@ -10,3 +10,7 @@
   - Co-operative
 	- This means that each task must be polite, and say "I'm finished, now it's someone else's turn." This is nice if you're designing a single process, because you know it will never be interrupted unexpectedly.
 - Erlang advantage
+
+
+![]()
+

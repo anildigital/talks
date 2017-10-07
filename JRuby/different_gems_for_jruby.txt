@@ -1,0 +1,76 @@
+         run  bundle install
+The latest bundler is 1.16.0.pre.3, but you are currently running 1.15.4.
+To update, run `gem install bundler --pre`
+Fetching gem metadata from https://rubygems.org/...............
+Fetching version metadata from https://rubygems.org/...
+Fetching dependency metadata from https://rubygems.org/..
+Resolving dependencies...........
+Using rake 12.1.0
+Using i18n 0.8.6
+Fetching json 1.8.6 (java)
+Installing json 1.8.6 (java)
+Using minitest 5.10.3
+Using thread_safe 0.3.6 (java)
+Using builder 3.2.3
+Using erubis 2.7.0
+Using nokogiri 1.8.1 (java)
+Using crass 1.0.2
+Using rack 1.6.8
+Using mime-types-data 3.2016.0521
+Using arel 6.0.4
+Using jdbc-sqlite3 3.8.11.2
+Using bundler 1.15.4
+Using coffee-script-source 1.12.2
+Using execjs 2.7.0
+Using thor 0.20.0
+Using concurrent-ruby 1.0.5 (java)
+Using ffi 1.9.18 (java)
+Using multi_json 1.12.2
+Using rb-fsevent 0.10.2
+Fetching rdoc 4.3.0
+Installing rdoc 4.3.0
+Using tilt 2.0.8
+Using therubyrhino_jar 1.7.6
+Using turbolinks-source 5.0.3
+Using tzinfo 1.2.3
+Using loofah 2.1.1
+Using rack-test 0.6.3
+Using mime-types 3.1
+Using coffee-script 2.4.1
+Using uglifier 3.2.0
+Using sprockets 3.7.1
+Using rb-inotify 0.9.10
+Fetching sdoc 0.4.2
+Installing sdoc 0.4.2
+Using therubyrhino 2.0.4
+Using turbolinks 5.0.1
+Using activesupport 4.2.0
+Using tzinfo-data 1.2017.2
+Using rails-html-sanitizer 1.0.3
+Using mail 2.6.6
+Using sass-listen 4.0.0
+Using rails-deprecated_sanitizer 1.0.3
+Using globalid 0.4.0
+Using activemodel 4.2.0
+Using jbuilder 2.7.0
+Using sass 3.5.2
+Using rails-dom-testing 1.0.8
+Using activejob 4.2.0
+Using activerecord 4.2.0
+Using actionview 4.2.0
+Fetching activerecord-jdbc-adapter 1.3.24
+Installing activerecord-jdbc-adapter 1.3.24
+Using actionpack 4.2.0
+Fetching activerecord-jdbcsqlite3-adapter 1.3.24
+Installing activerecord-jdbcsqlite3-adapter 1.3.24
+Using actionmailer 4.2.0
+Using railties 4.2.0
+Using sprockets-rails 3.2.1
+Fetching coffee-rails 4.1.1
+Installing coffee-rails 4.1.1
+Fetching jquery-rails 4.3.1
+Installing jquery-rails 4.3.1
+Using rails 4.2.0
+Using sass-rails 5.0.6
+Bundle complete! 11 Gemfile dependencies, 60 gems now installed.
+Use `bundle info [gemname]` to see where a bundled gem is installed.

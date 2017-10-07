@@ -47,12 +47,17 @@
 
 ---
 
-# Actors 
+# Actors
 
  - Gets to decide what to do with incoming messages
 
 
 —--
+
+
+![fit](actors.png)
+
+---
 
 
 # Address of actor != identity
@@ -84,7 +89,7 @@
 
 ---
 
-# Actor model more tied with physics than algebra. 
+# Actor model more tied with physics than algebra.
 # CSP is closely tied with Algebra.
 
 ---
@@ -93,4 +98,3 @@
 - Synchronization is handled by only one message being handled at a time.
 - All you know is that they told you.
 - You always have the old news. You can have old news on other side as well.
-
